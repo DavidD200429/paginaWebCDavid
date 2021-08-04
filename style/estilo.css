@@ -1,0 +1,22 @@
+.colores{
+    font-size: 4em; 
+    color:red; 
+}
+
+#primermenu {
+    background-color: black; 
+width: 250px;
+margin: 0;
+padding: 0;
+}
+
+h2{
+    color: chartreuse;
+    font-size: 2em;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    margin-top: 4%;
+}
